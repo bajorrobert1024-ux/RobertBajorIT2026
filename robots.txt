@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://bajorrobert1024-ux.github.io/RobertBajorIT2026/sitemap.xml
